@@ -10,91 +10,91 @@ Welcome to medical store project !
 4. Exit
 Select your choice
 1
-=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
+=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=<br/>
 Add medicines (Press Ctrl + D to stop)
-Enter medicine name
-Paracetamol
-Enter its quantity
-20
+<br/>Enter medicine name
+<br/>Paracetamol
+<br/>Enter its quantity
+<br/>20
 ******************************************
 =====================================
-Welcome to medical store project !
+<br/>Welcome to medical store project !
 1. Add medicines
 2. Delete medicines
 3. Get list of medicines
 4. Exit
-Select your choice
-1
+<br/>Select your choice
+<br/>1
 =/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
-Add medicines (Press Ctrl + D to stop)
-Enter medicine name
-Azithromycin
-Enter its quantity
-10
+<br/>Add medicines (Press Ctrl + D to stop)
+<br/>Enter medicine name
+<br/>Azithromycin
+<br/>Enter its quantity
+<br/>10
 ******************************************
 =====================================
-Welcome to medical store project !
+<br/>Welcome to medical store project !
 1. Add medicines
 2. Delete medicines
 3. Get list of medicines
 4. Exit
-Select your choice
-1
+<br/>Select your choice
+<br/>1
 =/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
-Add medicines (Press Ctrl + D to stop)
-Enter medicine name
-Crocin
-Enter its quantity
-5
+<br/>Add medicines (Press Ctrl + D to stop)
+<br/>Enter medicine name
+<br/>Crocin
+<br/>Enter its quantity
+<br/>5
 ******************************************
 =====================================
-Welcome to medical store project !
+<br/>Welcome to medical store project !
 1. Add medicines
 2. Delete medicines
 3. Get list of medicines
 4. Exit
-Select your choice
-3
+<br/>Select your choice
+<br/>3
 =/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
-Medicines list currently in store
-     10 Azithromycin
-      5 Crocin
-     20 Paracetamol
+<br/>Medicines list currently in store
+<br/>     10 Azithromycin
+<br/>      5 Crocin
+<br/>     20 Paracetamol
 ******************************************
 =====================================
-Welcome to medical store project !
+<br/>Welcome to medical store project !
 1. Add medicines
 2. Delete medicines
 3. Get list of medicines
 4. Exit
-Select your choice
-2
+<br/>Select your choice
+<br/>2
 =/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
-Delete medicines
-Enter the name of the medicine you want to delete : 
-Crocin
+<br/>Delete medicines
+<br/>Enter the name of the medicine you want to delete : 
+<br/>Crocin
 
 ******************************************
 =====================================
-Welcome to medical store project !
+<br/>Welcome to medical store project !
 1. Add medicines
 2. Delete medicines
 3. Get list of medicines
 4. Exit
-Select your choice
-3
+<br/>Select your choice
+<br/>3
 =/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
-Medicines list currently in store
-     10 Azithromycin
-      4 Crocin
-     20 Paracetamol
+<br/>Medicines list currently in store
+<br/>     10 Azithromycin
+<br/>      4 Crocin
+<br/>     20 Paracetamol
 ******************************************
 =====================================
-Welcome to medical store project !
+<br/>Welcome to medical store project !
 1. Add medicines
 2. Delete medicines
 3. Get list of medicines
 4. Exit
-Select your choice
-4
-=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
+<br/>Select your choice
+<br/>4
+<br/>=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=/=
